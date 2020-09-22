@@ -1,6 +1,8 @@
 Readme
 ======
 
+**IMPORTANT**: Deprecated location. Moved to [nsf-shc](https://github.com/jraygauthier/nsf-shc).
+
 A nix library to simplify packaging shell completions and providing a test
 environment for these completions.
 
